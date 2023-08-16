@@ -10,3 +10,11 @@
    comments. */
 
    console.log("Comments make your code more readable by others.");
+
+   //this will not copy when ran
+
+   console.log("Send to GitHub.");
+
+   /*Can us multi-line
+   with foward slash
+   and asterisk*/
